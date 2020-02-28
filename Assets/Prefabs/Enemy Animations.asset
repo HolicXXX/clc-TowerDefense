@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37905cc5f00514f3e9754b924aed7fee, type: 3}
+  m_Name: Enemy Animations
+  m_EditorClassIdentifier: 
+  move: {fileID: 7400000, guid: da978fc54965e4d35ad8de8de9afd5d3, type: 2}
+  intro: {fileID: 7400000, guid: 0e999f5b831414ea59a1221ca01f95db, type: 2}
+  outro: {fileID: 7400000, guid: 72fd7318e1d1f47708ccca0ef1a853df, type: 2}
+  dying: {fileID: 7400000, guid: 29ac94d1cac174bd99eab09bba2b8278, type: 2}
